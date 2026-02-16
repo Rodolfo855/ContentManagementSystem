@@ -1,0 +1,12 @@
+[
+  {
+    "locationName": "Kentfield Campus",
+    "temperature": "68°F",
+    "humidity": "45%",
+    "pressure": "1013 hPa",
+    "timestamp": "1:30 PM",
+    "imageName": "banner1",
+    "detailLocation": "Main Quad",
+    "description": "Weather data provided by the ESP32-S3 station located at the Science Village."
+  }
+]
