@@ -1,0 +1,18 @@
+[
+  {
+    "type": "video",
+    "tag": "STUDENT LIFE",
+    "title": "Spring Festival",
+    "body": "Live from the quad!",
+    "mediaName": "testVideo",
+    "location": "Main Campus"
+  },
+  {
+    "type": "image",
+    "tag": "ACADEMICS",
+    "title": "New Science Lab",
+    "body": "Check out the new gear.",
+    "mediaName": "banner1",
+    "location": "Science Village"
+  }
+]
