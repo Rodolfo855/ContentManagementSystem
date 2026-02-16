@@ -3,18 +3,36 @@
     "type": "video",
     "tag": "STUDENT LIFE",
     "title": "Spring Festival",
-    "body": "Live from the quad!",
+    "body": "API WORKING!",
     "mediaName": "testVideo",
-    "location": "Main Campus",
-    "description": "The Spring Festival is back! Join us for food, music, and games."
+    "location": "Campus Bookstore",
+    "description": "The annual Spring Festival is in full swing at the Kentfield Campus! Join us for live music, food trucks, and student club booths until 4:00 PM today."
+  },
+  {
+    "type": "video",
+    "tag": "GRADUATION",
+    "title": "Class of 2026",
+    "body": "Watch the ceremony.",
+    "mediaName": "grad_video",
+    "location": "Main Stage",
+    "description": "Relive the highlights of the Class of 2026 graduation ceremony. Congratulations to all our Mariners on their incredible achievements!"
   },
   {
     "type": "image",
     "tag": "ACADEMICS",
-    "title": "New Science Lab",
-    "body": "Check out the new gear.",
+    "title": "Library Update",
+    "body": "New study pods.",
     "mediaName": "banner1",
-    "location": "Science Village",
-    "description": "The new lab features state-of-the-art equipment for chemistry and physics students."
+    "location": "Fusselman Hall",
+    "description": "We have installed twelve new individual study pods on the second floor of the library to provide a quiet, focused environment for finals week."
+  },
+  {
+    "type": "image",
+    "tag": "SPORTS",
+    "title": "Soccer Victory",
+    "body": "Mariners won!",
+    "mediaName": "image5",
+    "location": "Athletic Field",
+    "description": "The Mariners secured a 2-0 victory against the visiting team last night. The defense was impenetrable, leading us to the regional playoffs!"
   }
 ]
