@@ -7,6 +7,26 @@
     "timestamp": "1:30 PM",
     "imageName": "banner1",
     "detailLocation": "Main Quad",
-    "description": "Weather data provided by the ESP32-S3 station located at the Science Village."
+    "description": "The Kentfield weather station is located atop the Learning Center. Current conditions show clear skies with a light breeze from the west."
+  },
+  {
+    "locationName": "Indian Valley",
+    "temperature": "64°F",
+    "humidity": "50%",
+    "pressure": "1011 hPa",
+    "timestamp": "1:35 PM",
+    "imageName": "sunny",
+    "detailLocation": "Organic Farm",
+    "description": "Located at the IVC Organic Farm, this sensor tracks microclimate variations essential for our agricultural programs."
+  },
+  {
+    "locationName": "Science Village",
+    "temperature": "67°F",
+    "humidity": "42%",
+    "pressure": "1014 hPa",
+    "timestamp": "1:40 PM",
+    "imageName": "photo1",
+    "detailLocation": "Lab Wing",
+    "description": "This station is part of the engineering department's IoT project, utilizing an ESP32-S3 for high-precision atmospheric monitoring."
   }
 ]
