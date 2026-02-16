@@ -1,13 +1,13 @@
 [
   {
-    "locationName": "Kentfield Campus",
+    "locationName": "Kentfield CampusAPI",
     "temperature": "68°F",
     "humidity": "45%",
     "pressure": "1013 hPa",
     "timestamp": "1:30 PM",
     "imageName": "banner1",
     "detailLocation": "Main Quad",
-    "description": "The Kentfield weather station is located atop the Learning Center. Current conditions show clear skies with a light breeze from the west."
+    "description": " API WORKING The Kentfield weather station is located atop the Learning Center. Current conditions show clear skies with a light breeze from the west."
   },
   {
     "locationName": "Indian Valley",
