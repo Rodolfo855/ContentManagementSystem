@@ -3,32 +3,18 @@
     "type": "video",
     "tag": "STUDENT LIFE",
     "title": "Spring Festival",
-    "body": "API WORKS!!",
+    "body": "Live from the quad!",
     "mediaName": "testVideo",
-    "location": "Campus Bookstore"
-  },
-  {
-    "type": "video",
-    "tag": "GRADUATION",
-    "title": "Class of 2026",
-    "body": "Watch the ceremony.",
-    "mediaName": "grad_video",
-    "location": "Main Stage"
+    "location": "Main Campus",
+    "description": "The Spring Festival is back! Join us for food, music, and games."
   },
   {
     "type": "image",
     "tag": "ACADEMICS",
-    "title": "Library Update",
-    "body": "New study pods.",
+    "title": "New Science Lab",
+    "body": "Check out the new gear.",
     "mediaName": "banner1",
-    "location": "Fusselman Hall"
-  },
-  {
-    "type": "image",
-    "tag": "SPORTS",
-    "title": "Soccer Victory",
-    "body": "Mariners won!",
-    "mediaName": "image5",
-    "location": "Athletic Field"
+    "location": "Science Village",
+    "description": "The new lab features state-of-the-art equipment for chemistry and physics students."
   }
 ]
