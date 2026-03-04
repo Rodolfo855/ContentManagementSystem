@@ -1,12 +1,12 @@
 [
   {
-    "locationName": "Kentfield CampusAPI",
+    "locationName": "Kentfield Campus",
     "temperature": "68°F",
     "humidity": "45%",
     "pressure": "1013 hPa",
-    "timestamp": "1:30 PM",
+    "timestamp": "1:35 PM",
     "imageName": "banner1",
-    "detailLocation": "Main Quad",
+    "detailLocation": "New CSS Building",
     "description": " API WORKING The Kentfield weather station is located atop the Learning Center. Current conditions show clear skies with a light breeze from the west."
   },
   {
