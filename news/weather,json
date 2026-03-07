@@ -25,7 +25,7 @@
     "humidity": "42%",
     "pressure": "1014 hPa",
     "timestamp": "1:40 PM",
-    "imageName": "https://github.com/Rodolfo855/ContentManagementSystem/blob/main/photos/default.jpg?raw=true",
+    "imageName": "banner1",
     "detailLocation": "Lab Wing",
     "description": "This station is part of the engineering department's IoT project, utilizing an ESP32-S3 for high-precision atmospheric monitoring."
   }
